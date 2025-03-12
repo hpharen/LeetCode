@@ -1,0 +1,7 @@
+sorted(variable) - sorts given array, string etc.
+hashsetName = set() - initializes an empty HashSet
+hashmapName = {} - initializes an empty HashMap
+enumerate(variable) - adds a counter to each item in the list, array etc. turns iterable into something we can loop through, each item comes with its number
+= - assigns a value to variable
+== - comparison between variables
+=== - 
