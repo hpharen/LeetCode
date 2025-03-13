@@ -5,3 +5,4 @@ enumerate(variable) - adds a counter to each item in the list, array etc. turns 
 = - assigns a value to variable
 == - comparison between variables
 === - 
+defaultdict(list) - defining a dictionary with values as a list
