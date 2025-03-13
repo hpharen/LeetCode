@@ -5,4 +5,5 @@ enumerate(variable) - adds a counter to each item in the list, array etc. turns 
 = - assigns a value to variable
 == - comparison between variables
 === - 
-defaultdict(list) - defining a dictionary with values as a list
+defaultdict(list) - defining a dictionary with values as a list, special kind of dictionary that provides a default value for key that does not exist, never raises key error
+ord() function - returns the number representing the unicode code of a specified character
